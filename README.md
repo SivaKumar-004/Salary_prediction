@@ -23,8 +23,6 @@ This project involves analyzing and visualizing salary data to uncover insights 
 
 
 
-Install dependencies:
-pip install -r requirements.txt
 
 
 
