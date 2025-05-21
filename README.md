@@ -33,14 +33,12 @@ streamlit run app.py
 
 
 
-Screenshots
-(Add screenshots of your app or visualizations here)
 Folder Structure
 .
 ├── app.py                  # Streamlit application
-├── salary_data.csv         # Dataset
-├── model.pkl               # Trained model
-├── requirements.txt        # Project dependencies
+├── Employees.xlsx          # Dataset
+├── linearmodel.pkl         # Trained model
+├──analysis_modeling.ipynb  # Data modeling
 └── README.md               # Project documentation
 
 License
